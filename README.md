@@ -1,4 +1,4 @@
-# experiment to show decison making statement in c++
+# Experiment 5 : to show decison making statement in C++
 
 # Aim:
 
@@ -39,7 +39,7 @@ Based on the above decision making statements in C++ , Simple programs have been
 
 # Algorihtms:
 
-# ** Program 1:**
+# Program 1:
 
 Objective: To determine whether a user-entered number is even or odd.
 
@@ -198,3 +198,7 @@ Case 4: Display "You selected: Water Bottle" and "Please pay ₹8".
 Default: If input is not 1–4, display "Invalid choice! Please select a valid item."
 
 End
+
+# Conclusion:
+
+This experiment helped us understand and apply various decision-making statements in C++. By implementing simple programs using if, if-else, nested if, and switch, we learned how to control the flow of a program based on conditions. These concepts are essential for writing logical and interactive C++ programs.
